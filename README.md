@@ -5,7 +5,9 @@
 - Student name: Cem Cakir
 - Student ID: 44463
 
-OOP-Lamp-Lab is an Android Studio project written in Java. The app demonstrates object-oriented programming basics through Lamp and Bulb classes, with screens for a hello activity, a lamp demo, and test-style output.
+## Description
+
+OOP-Lamp-Lab is an Android Studio project written in Java. The app demonstrates object-oriented programming basics through Lamp and Bulb classes and Activity screens that show their behavior. It focuses on class structure, object state, and readable test-style output.
 
 ## Build
 
